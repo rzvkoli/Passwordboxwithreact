@@ -3,7 +3,7 @@ import { Icon } from 'react-icons-kit';
 import {eye} from 'react-icons-kit/feather/eye';
 import {eyeOff} from 'react-icons-kit/feather/eyeOff';
 
-function App() {
+function App(){
 
   const [type , setType] = useState('password');
   const [icon , setIcon] = useState(eyeOff);

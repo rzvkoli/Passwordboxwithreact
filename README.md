@@ -1,4 +1,4 @@
-# Password Box
+# Password box
 
 **A brief description of the project :**
 

@@ -1,11 +1,6 @@
 # Password box
 
-**A brief description of the project :**
-
-In this project, click on the button of each of the languages
-The name of the manufacturer of that language is displayed .
-
-**A few more brief explanations :**
+**A few brief explanations :**
 
 - This is an easy project with react .
 - **React-icons** is used in this project .

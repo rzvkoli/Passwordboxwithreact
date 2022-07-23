@@ -4,7 +4,7 @@
 
 - This is an easy project with react .
 - **React-icons** is used in this project .
-- In this small project a font with two formats is used in the folder / public / font .
+- A font is called by importing into the project .
 - The favicon has changed in this project .
 
 ## Screenshots of the demo and favicon

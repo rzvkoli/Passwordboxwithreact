@@ -8,7 +8,14 @@
 - **React Icon**
 
 # Some points about the project
-- **React-icons** is used in this project .
+- **React-icons-kit** is used in this project .
+
+```JSX
+
+import { icon } from 'react-icons-kit';
+
+```
+
 - **useState** is used in this project .
 
 ```JSX

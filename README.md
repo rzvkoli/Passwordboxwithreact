@@ -24,10 +24,13 @@ import React { useState } from 'react' ;
 
 ```
 
-- This is an easy project with react .
+- A font has been imported in this project .
 
-- A font is imported in index.css .
-- The favicon has changed in this project .
+``` Css
+
+import url ('');
+
+```
 
 ## Preview
 ### Desktop Mode

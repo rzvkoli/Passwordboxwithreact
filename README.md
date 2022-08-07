@@ -7,9 +7,18 @@
 - **JSX**
 - **React Icon**
 
+# Some points about the project
+- **React-icons** is used in this project .
+- **useState** is used in this project .
+
+```JSX
+
+import React { useState } from 'react' ;
+
+```
 
 - This is an easy project with react .
-- **React-icons** is used in this project .
+
 - A font is imported in index.css .
 - The favicon has changed in this project .
 

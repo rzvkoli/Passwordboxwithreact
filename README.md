@@ -2,8 +2,8 @@
 
 ## Technologies
 
-- **CSS**
 - **React**
+- **CSS**
 - **React icon kit**
 
 # Some points about the project

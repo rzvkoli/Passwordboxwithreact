@@ -4,8 +4,7 @@
 
 - **CSS**
 - **React**
-- **JSX**
-- **React Icon**
+- **React Icon Kit**
 
 # Some points about the project
 - **React-icons-kit** is used in this project .
